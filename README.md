@@ -14,5 +14,5 @@ This experience taught me the value of GIS in raising awareness about pressing w
 
 I’m excited to continue leveraging geospatial tools to uncover meaningful stories and solutions. Let’s work together to make a difference! 
 
-Check out my project on GitHub: **[Link to Repository](#)**
+
 
